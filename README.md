@@ -4,15 +4,9 @@ Official PyTorch implementation of Domain-Aware Triplet Loss in Domain Generaliz
 
 Kaiyu Guo, Brian C. Lovell.
 
-<p align="center">
-    <img src="./assets/method.png" width="90%" />
-</p>
 
 Note that this project is built upon [SWAD](https://github.com/khanrc/swad).
 
-<p align="center">
-    <img src="./assets/fig1.png" width="90%" />
-</p>
 
 ### Datasets
 
