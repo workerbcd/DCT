@@ -28,5 +28,13 @@ NumPy: 1.21.2
 PIL: 9.5.0
 ```
 ## How to Run
+Take PACS as an example, you can run the code on Resnet50 with cmd:
+```
+sh PACStrain.sh
+```
+if you would like to run the code on RegNet, you can use the cmd:
+```
+sh regnet-OfficeHome-train.sh
+```
+If you would like to know the detail of the parameter, pleas check the sh file we provided
 
-Pleas check the sh file we provided
