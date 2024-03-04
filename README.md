@@ -4,6 +4,7 @@ Official PyTorch implementation of Domain-Aware Triplet Loss in Domain Generaliz
 
 Kaiyu Guo, Brian C. Lovell.
 
+This Paper has been accepted by the journal of Computer Vision and Image Understanding (CVIU)
 
 Note that this project is built upon [SWAD](https://github.com/khanrc/swad).
 
