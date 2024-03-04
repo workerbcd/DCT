@@ -34,7 +34,7 @@ sh PACStrain.sh
 ```
 if you would like to run the code on RegNet, you can use the cmd:
 ```
-sh regnet-OfficeHome-train.sh
+sh regnet-PACS-train.sh
 ```
 If you would like to know the detail of the parameter, pleas check the sh file we provided
 
