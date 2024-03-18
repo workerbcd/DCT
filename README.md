@@ -38,3 +38,14 @@ sh regnet-PACS-train.sh
 ```
 If you would like to know the detail of the parameter, pleas check the sh file we provided
 
+## Citation
+```
+@article{GUO2024103979,
+title = {Domain-aware triplet loss in domain generalization},
+journal = {Computer Vision and Image Understanding},
+pages = {103979},
+year = {2024},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.103979},
+author = {Kaiyu Guo and Brian C. Lovell}
+```
