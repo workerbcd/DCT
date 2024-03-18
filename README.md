@@ -7,8 +7,9 @@ Kaiyu Guo, Brian C. Lovell.
 This Paper has been accepted by the journal of Computer Vision and Image Understanding (CVIU)
 
 Note that this project is built upon [SWAD](https://github.com/khanrc/swad).
-
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-aware-triplet-loss-in-domain/domain-generalization-on-pacs-2)](https://paperswithcode.com/sota/domain-generalization-on-pacs-2?p=domain-aware-triplet-loss-in-domain)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-aware-triplet-loss-in-domain/domain-generalization-on-vlcs)](https://paperswithcode.com/sota/domain-generalization-on-vlcs?p=domain-aware-triplet-loss-in-domain)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-aware-triplet-loss-in-domain/domain-generalization-on-office-home)](https://paperswithcode.com/sota/domain-generalization-on-office-home?p=domain-aware-triplet-loss-in-domain)
 ### Datasets
 
 ```sh
