@@ -1,6 +1,5 @@
 # Domain-Aware Triplet Loss in Domain Generalization
-
-Official PyTorch implementation of Domain-Aware Triplet Loss in Domain Generalization.
+Official PyTorch implementation of [Domain-Aware Triplet Loss in Domain Generalization](https://doi.org/10.1016/j.cviu.2024.103979).
 
 Kaiyu Guo, Brian C. Lovell.
 
